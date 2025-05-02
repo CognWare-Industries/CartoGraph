@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       a42e3d47-9c21-4fbc-90b9-3716466eb74d
+:END:
+#+title: Prototype
