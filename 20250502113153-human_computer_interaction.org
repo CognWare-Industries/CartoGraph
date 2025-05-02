@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       da5b06b4-fc80-47dc-b406-6c5a6e403cbe
+:ROAM_ALIASES: HCI
+:END:
+#+title: Human Computer Interaction

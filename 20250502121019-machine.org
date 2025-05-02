@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       4177de4c-be33-48f4-b63f-279282447fab
+:END:
+#+title: Machine

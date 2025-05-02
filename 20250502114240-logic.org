@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       80732ef2-540e-4391-b904-3f73adac4cb0
+:END:
+#+title: Logic

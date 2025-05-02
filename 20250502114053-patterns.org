@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       0b701928-7ca9-4885-a1a2-ecc79d92b2c0
+:END:
+#+title: Patterns

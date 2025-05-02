@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       d66b5c13-e72f-4a41-b267-c3cc00b75a22
+:END:
+#+title: Control

@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       1b8de86e-6457-49a7-9b96-19496bbe52b1
+:END:
+#+title: Abstraction

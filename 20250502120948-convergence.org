@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       6e6d7d39-b366-4c1b-84a3-2d50cbde75b1
+:END:
+#+title: Convergence
