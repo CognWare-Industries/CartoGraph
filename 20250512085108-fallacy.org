@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       3cff5aa2-c934-4eaa-90b3-019d1888aaf8
+:END:
+#+title: Fallacy
+
+
+* OverArching Types
+** Formal:
+  - Propositional: Deals with propositions and their logical operations
+  - Implication reversal: Incorrectly reversing the direction of an implication
+  - Affirming the consequent: Assuming the truth of a premise from its consequence
+  - Denying the antecedent: Incorrectly concluding the falsity of a consequence from a premise
+  - Quantifier: Specifies the scope of a variable in a logical statement
+  - Illicit major: Using an undistributed middle term in a categorical syllogism
+  - Illicit minor: Incorrect distribution of the minor term in a categorical syllogism
+** Informal:
+  - Relevance: Irrelevance of premises to the conclusion
+  - Ad hominem: Attacking the person making an argument rather than the argument itself
+  - appeal to authority: Using an authority's opinion to support an argument without scrutiny
+  - strawman: Misrepresenting someone's argument to make it easier to attack
+  - Ambiguity: Using ambiguous language to obscure the truth
+  - Equivocation: Using a term with multiple meanings in a single argument
+  - Amphiboly: Ambiguity due to unclear or misleading sentence structure
