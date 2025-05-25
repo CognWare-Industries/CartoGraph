@@ -2,3 +2,15 @@
 :ID:       043807b9-f9b4-462c-af77-2fae8bb0bf5b
 :END:
 #+title: Outline
+
+* Abstract
+ - strucural [[id:5d166652-b634-422a-9342-d57beacdc468][recursion]] via abstract [[id:f166958b-aed6-4a0b-825b-48be4a036190][Trees]]
+ - working in outlines is convenient for Humans and bots
+* Incentive
+ - unstructured notes have been an issue in the past
+ - structuring inputs from the get go help with flexibility in the future
+* Outline
+ - this is the main outline section that holds domain specific elaborations for the abstract concept
+ - these can be bullets denoted with a hyphen or org subtrees depending on how deep the outline needs to be
+ - prefer a flat structure for quicker traversal across concepts as dedicated nodes rather than nested ones
+* Links

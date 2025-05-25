@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       6fd3f439-98f5-4d74-9122-d570859621a5
+:END:
+#+title: Notes
+
+* Abstract
+ - aiming for terse exhaustiveness
+ - one should be able to follow quickly
+ - definite structure to all notes at the top level
+ - abstract, incentive (why), outline (tree), (external) links
+* Incentive
+ - defining how the notes in here are structured
+ - for common parsing and inference strategies down the line
+ - towards engineering interfaces for bots and humans
+* Outline
+ - the Abstract will serve as an OverArching conceptual view for the concerned note
+ - the incentives serve as the root to why that note particularly exists
+ - the outline is where the domain specific dives are noted
+   - this is the meta note taking directive so will have overviews of generic approaches
+   - No AI slop creating indices in here
+   - do leverage AI for interpretation
+   - condensed phrases and [[id:43715378-3471-493f-bf76-845553735e4e][jargon]] with further explorations on the jargon in dedicated notes
+   - no tags
+ - links
+   - prefer a flat note structure with further elaboration in dedicated nodes altogether
+   - internal links to concepts when using them in the first three nodes
+   - the links section only to contain external indices
+ - every note may not have all four of these (Abstract,Incentive,Outline, Links)
+* Links
