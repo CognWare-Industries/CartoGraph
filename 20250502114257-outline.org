@@ -5,7 +5,8 @@
 
 * Abstract
  - strucural [[id:5d166652-b634-422a-9342-d57beacdc468][recursion]] via abstract [[id:f166958b-aed6-4a0b-825b-48be4a036190][Trees]]
- - working in outlines is convenient for Humans and bots
+ - structured outlines are convenient for Humans and bots
+ - further iterations might involve bots working towards knowledge discovery
 * Incentive
  - unstructured notes have been an issue in the past
  - structuring inputs from the get go help with flexibility in the future
@@ -13,4 +14,8 @@
  - this is the main outline section that holds domain specific elaborations for the abstract concept
  - these can be bullets denoted with a hyphen or org subtrees depending on how deep the outline needs to be
  - prefer a flat structure for quicker traversal across concepts as dedicated nodes rather than nested ones
+ - if an outline is turning into a list rather than a concise overview, another node is probably needed
+ - avoid metalinkages
 * Links
+ - external references
+ - all internal links exist in only in the abstract subnode to enforce careful linking considerations and avoid too many cycles

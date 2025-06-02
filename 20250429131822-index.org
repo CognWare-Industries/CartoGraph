@@ -3,4 +3,12 @@
 :END:
 #+title: Index
 
-=Engineering Cognitive Infrastructure=
+* Abstract
+ - index to serve as primary directives during exploration of this [[id:192baa83-6093-4b0a-a96a-3e4f5991b976][Epistemological]] [[id:c7258f01-13da-4510-afc6-60c8d6f9e728][Cartograph]] by miscellaneous [[id:9a93338a-50af-41b0-a97d-f1c6836ae458][agents]]
+ - All of the Nodes, like this root are expressed in [[id:043807b9-f9b4-462c-af77-2fae8bb0bf5b][outlines]]
+* Incentive
+ - directing parsing and traversal strategies for agents
+ - exploration and exploitation directives
+
+* Outline
+* Links

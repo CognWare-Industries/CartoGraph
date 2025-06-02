@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       9a93338a-50af-41b0-a97d-f1c6836ae458
+:END:
+#+title: Agent
+
+* Abstract
+* Incentive
+* Outline
+* Links

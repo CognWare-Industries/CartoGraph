@@ -2,3 +2,18 @@
 :ID:       c7258f01-13da-4510-afc6-60c8d6f9e728
 :END:
 #+title: Knowledge Graphs
+
+* Abstract
+ - one of the means of [[id:387bb873-d57a-446b-9042-ace87d0fcc1d][indexing]] [[id:98050118-a477-48cf-a4ff-be362db616fe][knowledge]]
+   - via mathematical [[id:42e8c2ec-6418-414d-9c73-08b43d54e243][Graphs]]
+* Incentive
+ - better interpretability and application potential for humans and bots
+* Outline
+ - semantically atomic concepts represented as Nodes
+ - inter concept linkages via Links
+ - following link Chains helps out with analysing emergent pattens
+ - clusters help denote pseudo boundaries for inter domain traversal
+ - Higher order Patterns emerge upon enough data observations
+   - Analogies are patterns that transfer across concept clusters
+   - leveraging pattern applications to new domains is a way to observe
+* Links
